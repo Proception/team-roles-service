@@ -1,0 +1,3 @@
+INSERT INTO roles (id, name, description, created_date, last_modified_date) VALUES ('1', 'Developer', 'Writes codes',  NOW(),  NOW());
+INSERT INTO roles (id, name, description, created_date, last_modified_date) VALUES ('2', 'Tester', 'Tests code',  NOW(),  NOW());
+INSERT INTO roles (id, name, description, created_date, last_modified_date) VALUES ('3', 'Product Owner', 'Manages product',  NOW(),  NOW());
