@@ -1,9 +1,6 @@
 # Tempo Backend
 The purpose of this service is to expose APIs with the intention of enriching the [users service](https://cgjresszgg.execute-api.eu-west-1.amazonaws.com/users/) and [teams service](https://cgjresszgg.execute-api.eu-west-1.amazonaws.com/teams/) by providing the functionality to create roles, and associate them with members in a team.
 
-##Approach
-
-
 ## Requirements
 Docker: Have docker and docker compose installed on local setup (no docker/docker-compose installed? try [docker](https://docs.docker.com/get-docker/) and [docker compose](https://docs.docker.com/compose/install/))
 
