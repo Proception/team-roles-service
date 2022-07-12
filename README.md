@@ -1,4 +1,4 @@
-# Tempo Backend
+# Team Roles Service
 The purpose of this service is to expose APIs with the intention of enriching the [users service](https://cgjresszgg.execute-api.eu-west-1.amazonaws.com/users/) and [teams service](https://cgjresszgg.execute-api.eu-west-1.amazonaws.com/teams/) by providing the functionality to create roles, and associate them with members in a team.
 
 ## Requirements
